@@ -2,7 +2,7 @@ int r = 0;
 int g = 0;
 int b = 0;
 double someLength = 20;
-float rot = 0.1;
+float rot = 0.0;
 public void setup()
 {
 	size(700,700);
